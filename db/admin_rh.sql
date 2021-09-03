@@ -40,9 +40,8 @@ CREATE TABLE `tbl_usuario` (
 -- Extraindo dados da tabela `tbl_usuario`
 --
 
-INSERT INTO `tbl_usuario` (`id`, `cpf`, `email`, `nome`, `senha`) VALUES
-(1, '123.434.545-34', 'sandrinho9797@outlook.com', 'Sandro Luiz Ribeiro Carvalho', 'e6855b39d0873c0975120b4782e8f80b'),
-(2, '', '', '', 'e6855b39d0873c0975120b4782e8f80b');
+
+
 
 --
 -- Indexes for dumped tables

@@ -66,10 +66,6 @@ CREATE TABLE `tbl_usuario` (
 -- Extraindo dados da tabela `tbl_usuario`
 --
 
-INSERT INTO `tbl_usuario` (`id`, `cpf`, `email`, `nome`, `senha`) VALUES
-(13, '123.302.234-34', 'sandrinho9797@outlook.com', 'Sandro Luiz', 'e6855b39d0873c0975120b4782e8f80b'),
-(14, '123.302.234-34', 'emily12lauren@gmail.com', 'Emily Lauren', '40195892654c0d0a84161d83fc394056'),
-(15, '123.302.234-34', 'sandro-deus@live.com', 'Emily Lauren', 'e6855b39d0873c0975120b4782e8f80b');
 
 --
 -- Índices para tabelas despejadas
